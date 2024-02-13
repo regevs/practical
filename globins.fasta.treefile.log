@@ -1,0 +1,20 @@
+IQ-TREE multicore version 2.2.2.6 COVID-edition for Mac OS X 64-bit built May 27 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    dhcp-10-249-3-46.eduroam.wireless.private.cam.ac.uk (SSE4.2, 16 GB RAM)
+Command: /Users/regevschweiger/Downloads/iqtree-2.2.2.6-MacOSX/bin/iqtree2 -rf globins.fasta.parstree globins.fasta.treefile
+Seed:    472039 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Feb 13 14:15:01 2024
+Kernel:  SSE2 - 1 threads (10 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 10 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading tree(s) file globins.fasta.treefile ...
+1 tree(s) loaded (0 rooted and 1 unrooted)
+Reading tree(s) file globins.fasta.parstree ...
+1 tree(s) loaded (0 rooted and 1 unrooted)
+Computing Robinson-Foulds distances between two sets of trees
+Robinson-Foulds distances printed to globins.fasta.treefile.rfdist
+Date and Time: Tue Feb 13 14:15:01 2024
